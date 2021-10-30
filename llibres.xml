@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<llibres>
+
+	<llibre id="1">
+		<titol>El Principito</titol>
+		<autor>Antoine de Sant-Exupery</autor>
+		<any>1943</any>
+		<editorial>Alianza</editorial>
+		<pagines>113</pagines>
+		</llibre>
+	
+	<llibre id="2">
+		<titol>Cordeluna</titol>
+		<autor>Elia Barcelo</autor>
+		<any>2007</any>
+		<editorial>Edebe</editorial>
+		<pagines>346</pagines>
+	</llibre>
+	
+	
+	<llibre id="3">
+		<titol>Tirant lo Blanc</titol>
+		<autor>Joanot Martorell</autor>
+		<any>1490</any>
+		<editorial>Vicens Vives</editorial>
+		<pagines>1072</pagines>
+	</llibre>
+	
+	<llibre id="4">
+		<titol>Rebeldes</titol>
+		<autor>Susan E.Hinton</autor>
+		<any>1967</any>
+		<editorial>Alfaguara</editorial>
+		<pagines>192</pagines>
+	</llibre>
+	
+	<llibre id="5">
+		<titol>Don Quijote de la Mancha</titol>
+		<autor>Miguel de Cervantes</autor>
+		<any>1605</any>
+		<editorial>Francisco de Robles</editorial>
+		<pagines>1345</pagines>
+	</llibre>
+</llibres>
